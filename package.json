@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": " Amazon-like storefront with the MySQL skills I learned.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edavis1911/Bamazon.git"
+  },
+  "author": "Ernest Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edavis1911/Bamazon/issues"
+  },
+  "homepage": "https://github.com/edavis1911/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  }
+}
